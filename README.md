@@ -5,12 +5,12 @@ This is a final project for a Highschool Intro to CS Class, it is written in Pyt
 
 # How to Run the Game
 
-# 1. Download:
+1. Download:
 Press the "Download Zip" Button at the top right corner of the project. 
 
 Unzip the file on your computer. 
 
-# 2. Run the Python File:
+2. Run the Python File:
 Python 2.7 is needed to run this program. For Mac or Windows, you can get it [here](https://www.python.org/downloads/release/python-2710/). 
 
 To run it, open the vp6.py file in IDLE and press f5 or select Run->Run Module. 
