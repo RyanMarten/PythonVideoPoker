@@ -33,6 +33,7 @@ The goal is to get your balance (in the right corner) to become as large as poss
 4. Repeat the last two steps to earn more and more money. If your balance reaches 0, it is *Game Over* and you will be asked to play again
 
 Highscores
+
 Local highscores for both the balance and the best hand can be viewed in the file topten.txt in the src folder after the game has been played at least once. 
 
 # Contributions
